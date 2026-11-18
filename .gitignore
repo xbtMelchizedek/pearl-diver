@@ -1,0 +1,9 @@
+third_party/
+/bin/
+*.key
+*.seed
+*.pass
+.keys/
+.env
+out/
+*.log
